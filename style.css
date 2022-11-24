@@ -1,9 +1,11 @@
 body{
-  background:orange;
+  background: orange;
  }
+table{
+  background: pink;
+}
 
- td{
+ table tbody tr td{
    border: 1px solid;
-    
-   border-color:pink
+   border-color: pink;
    }
