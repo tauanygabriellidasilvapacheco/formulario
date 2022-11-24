@@ -1,3 +1,9 @@
 body{
-  backgroud:orange;
-}
+  background:orange;
+ }
+
+ td{
+   border: 1px solid;
+    
+   border-color:pink
+   }
